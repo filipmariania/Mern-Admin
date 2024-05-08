@@ -1,10 +1,10 @@
 ## App Built on top of this Starter project [IDURAR ERP/CRM](https://github.com/idurar/erp-crm)
 IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
-GitHub Repository : [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+GitHub Repository : [https://github.com/idurar/idurar-erp-crm](https://github.com/filipmariania/Mern-Admin.git)
 
 
 [![
-IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js )](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ja242ld9m9z1c6ia7lu5.png)](https://github.com/idurar/idurar-erp-crm)
+IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js )](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ja242ld9m9z1c6ia7lu5.png)](https://github.com/filipmariania/Mern-Admin.git)
 
 
 
